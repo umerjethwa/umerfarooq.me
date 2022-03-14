@@ -66,3 +66,9 @@
         padding-bottom: 25%;
       }
     }
+span.pos-heading {
+    color: #741ce8;
+}
+h3.pos-heading-main {
+     font-size: 25px; 
+}
