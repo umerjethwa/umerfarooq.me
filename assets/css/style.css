@@ -5,8 +5,9 @@
     .box {
       float: left;
       position: relative;
-      width: 20%;
+      width: 33%;
       padding-bottom: 20%;
+      margin-bottom: 20px;
     }
     .boxInner {
       position: absolute;
@@ -18,6 +19,7 @@
     }
     .boxInner img {
       width: 100%;
+      height: 100%;
     }
     .boxInner .titleBox {
       position: absolute;
