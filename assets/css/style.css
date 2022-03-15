@@ -32,10 +32,10 @@
       color: #FFF;
       padding: 10px;
       text-align: center;
-      -webkit-transition: all 0.3s ease-out;
+/*       -webkit-transition: all 0.3s ease-out;
       -moz-transition: all 0.3s ease-out;
       -o-transition: all 0.3s ease-out;
-      transition: all 0.3s ease-out;
+      transition: all 0.3s ease-out; */
     }
     section.no-touch .boxInner:hover .titleBox, section.touch .boxInner.touchFocus .titleBox {
       margin-bottom: 0;
