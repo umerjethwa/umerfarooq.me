@@ -83,6 +83,7 @@ img.site-img{
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: 5px;
 }
 .col-lg-6.p-lg-0 .probtn{
     text-align-last: center;
